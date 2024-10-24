@@ -8,13 +8,13 @@ gitpython
 hachoir
 heroku3
 motor
-pillow
+pillow==9.5.0
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==1.2.9
 pykeyboard
 pyrofork
 python-dotenv
-pyyaml
+pyyaml==6.0.1
 requests
 speedtest-cli
 spotipy
